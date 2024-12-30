@@ -1,7 +1,7 @@
 # DEKTeX
 minimalistic TeX engines, with DEK's sources slightly modified to make it multiplatform
 
-At this point, only the executables ported to DOS386 (djgpp cross-compiled: requires cwsdpmi.exe to run on 386), Win32 (native), and Linux 386 (may run on Windows's C:\ drive with flinux typing `flinux initex32`) are provided: web sources should follow whenever I can find them in this lab's mess.
+At this point, only the executables ported to DOS386 (djgpp cross-compiled: requires cwsdpmi.exe to run on 386), Win32 (native), and Linux 386 (may run on Windows's C:\ drive with flinux typing `flinux initex32`) are provided: web change files should follow whenever I can find them in this lab's mess.
 
 # BUGS
 
