@@ -12,5 +12,4 @@ These executables are highly experimental: try at your own risk.
 # TODO
 
 * Add a suitable (and as ancient) DVI driver; Andy Clark's [dvitops](https://www.ctan.org/pkg/dvitops) is the target of choice.
-* Provide basic recursive path search for these ports, in Pascal again; Peter Breitenlohner's [DOStp](https://www.ctan.org/tex-archive/systems/msdos/dostp22) unit looks suitable.
 * Maybe work on a port of Metafont, to give the full experience of Lore.
