@@ -11,5 +11,6 @@ These executables are highly experimental: try at your own risk.
 
 # TODO
 
+* Provide a port of Metafont, to give the full experience of Lore.
 * Add a suitable (and as ancient) DVI driver; Andy Clark's [dvitops](https://www.ctan.org/pkg/dvitops) is the target of choice.
-* Maybe work on a port of Metafont, to give the full experience of Lore.
+* Provide basic recursive path search.
