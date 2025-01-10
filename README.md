@@ -1,4 +1,4 @@
-# DisLaTeX
+# TeX82lab
 minimalistic TeX engines and tools.
 
 This "distro" (or rather, "family of distros", if they deserve that name) are experiments in retrocomputing, providing change and source files for simple, primitive implementations of (Classic|DEK)TeX82. 
